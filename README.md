@@ -3,9 +3,11 @@
 EDA - Bootcamp The Bridge
 
 Introducción:
+
 La cardiotocografía (CTG) es un método de evaluación fetal que registra simultáneamente la frecuencia cardiaca, los movimientos fetales y las contracciones uterinas. Se utiliza comúnmente en el tercer trimestre y su propósito es monitorear el bienestar fetal. Estas mediciones ayudan a los profesionales de la salud a verificar el estado general del feto y a identificar las primeras señales de sufrimiento fetal. Sin embargo, se producen muchos falsos positivos, por lo que encontrar una relación causal podría permitir mejorar la clasificación de la salud fetal.
 
 Objetivo:
+
 Este proyecto pretende analizar registros cardiotocográficos fetales para estudiar la relación entre características de la CTG y la evaluación del estado fetal.
 Hipótesis principal:
 • Existe una relación causal entre las características de la CTG y los estados de salud fetal.
