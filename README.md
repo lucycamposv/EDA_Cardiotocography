@@ -10,10 +10,10 @@ La cardiotocografía (CTG) es un método de evaluación fetal que registra simul
 
 Este proyecto pretende analizar registros cardiotocográficos fetales para estudiar la relación entre características de la CTG y la evaluación del estado fetal.
 
-Hipótesis principal:
+*Hipótesis principal:*
 > Existe una relación causal entre las características de la CTG y los estados de salud fetal.
 
-Hipótesis secundarias:
+*Hipótesis secundarias:*
 > La aceleración de la frecuencia cardiaca fetal tiene una correlación negativa con la mortalidad fetal.
 > 
 > La frecuencia cardiaca basal fuera del rango 110-160 lpm indica sufrimiento fetal.
