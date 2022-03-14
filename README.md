@@ -21,8 +21,8 @@ Hipótesis secundarias:
 **Metodología**:
 
 Datasets extraídos de kaggle:
-* ![Fetal Health Classification](https://www.kaggle.com/andrewmvd/fetal-health-classification)
-* ![Fetal Cardiotocography Data](https://www.kaggle.com/akshat0007/fetalhr)
+* [Fetal Health Classification](https://www.kaggle.com/andrewmvd/fetal-health-classification)
+* [Fetal Cardiotocography Data](https://www.kaggle.com/akshat0007/fetalhr)
 
 **Conclusiones:**
 1. Aceleraciones, Desaceleraciones y Variabilidad afectan directamente al estado de salud fetal. Las aceleraciones son las variables más importantes.
